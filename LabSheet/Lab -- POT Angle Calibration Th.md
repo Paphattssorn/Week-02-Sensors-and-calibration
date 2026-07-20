@@ -79,6 +79,9 @@ void app_main(void)
 |   135   |       3000        |          1900          |
 |   180   |       3900        |           2500         |
 
+วิดีโอการทดลอง
+https://drive.google.com/file/d/1D-UEYnXzd0v8GgOPo4N69YegHSU2GOHD/view?usp=sharing
+
 จากข้อมูลนี้ให้หาค่า
 
 - **$ADC_{min}$** = ค่า ADC ที่มุม 0°
